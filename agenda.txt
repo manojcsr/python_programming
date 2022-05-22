@@ -1,0 +1,93 @@
+
+Intro to Python
+	What is Python
+	Why Python
+	How can you execute Python programs ?
+	When should we use Python ?
+	Object oriented language 
+	
+Declare variables
+	Chained assignment
+
+Dynamic typed language
+
+Data types - Classification
+	int, float, string, list, tuple, dictionary, set, file, boolean, none	
+	Exploring different attributes of data types
+
+Built-in functions - eval, print, type, dir, sum, avg, len, str, list, tuple, dict, set, int, float, ord, chr
+Comprehensions
+    List, Dictionary, Set
+    Optional if else constructs
+
+Control structures - for,if,while,break,continue & pass
+
+Regular expressions
+    How regex engine works
+    Wild cards - anchors,quantifiers,metacharacters
+    Search, replace, grouping
+
+Functions
+    Pass by value and Pass by arguments
+    Starred and double starred arguments
+    Anonymous functions
+    map, filter & reduce
+
+Generators 
+    Concept of lazy loading
+    Generator expressions
+    Generator functions
+
+Data analysis using Dataframes
+    Concepts
+    Reader methods
+    Schema inference and data types
+    Filters
+    Data imputation
+    In-place edit
+    Manipulation of rows and columns
+    Removing columns
+    Applying functions
+    Sorting
+    Duplicate records removal
+    Replacing values
+    Applying regexes
+    Combining dataframes
+    Joining dataframes
+    Visualisation
+    Group by  
+    Time series operations
+    Multi indexed dataframes
+    Reading/Writing to Excel workbook
+
+Useful modules
+    # string - set of alphabetic, punctuation, numeric - generate a password
+    # random - choose an element randomly from an iterable ; generate a set of random numbers between a range
+    # sys - print interpreter version ; can modify the module search path ; parse arguments from command line 
+    # os - all underlying os navigation
+    # time - profiling - time() - wait for an extenal event to occur
+    # datetime - date objects
+    # glob - search for a set of files from the underlying os
+    # calendar - work with year and calendar objects
+    # re - regular expressions
+    # pandas
+    # sqlalchemy - database connectivity
+    # pytz - Working with timezones
+    # pickle - Preserve the objects as is
+    # json - reading and modifying json
+    # requests & bs4.BeautifulSoup - Web scraping
+    # logging - standard way of segregating the logging by severity levels
+    # smtplib - sending emails
+    # psutil - system monitoring
+    # selenium - Web automation
+    # traceback - stack trace of exception to find out the root cause
+    # pytest - test suite
+    # threading and multiprocessing - parallelism on whether to leverage all cores or single core of a machine
+
+User defined modules , imports and namespaces
+    Concept of __name__ for masking function calls
+    Using sys.path to provide the search path for custom modules
+    
+Exceptions and assert statement
+
+User defined classes & OOPS concepts
